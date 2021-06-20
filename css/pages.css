@@ -1,0 +1,54 @@
+ul.pages {
+	padding: 0;
+	float: left;
+	list-style: none;
+	height: 32px;
+	width: 200px;
+	margin: 0;
+}
+ul.pages li {
+	float: left;
+	 background-color: #b5b6b6;   
+    display: inline-block;
+    height: 30px;
+    line-height: 32px;
+    margin-right: 2px;
+    text-align: center;
+    transition: all 0.25s linear 0s;
+    width: 30px;
+}
+ul.pages li a {
+	text-decoration: none;
+	color: #5A5D60;	
+	font-size: 14px;
+	outline: none;
+	padding: 0px;
+}
+	
+ul.pages li.active, ul.pages li:hover, ul.pages li.active a, ul.pages li:hover a {
+	 background-color: #363839;
+    color: #FFFFFF;
+	display: inline-block;
+    height: 30px;
+    line-height: 32px;
+    margin-right: 2px;
+    text-align: center;
+    transition: all 0.25s linear 0s;
+    width: 30px;
+}
+
+.tab_content img {
+	float: left;
+	padding: 0px;
+}
+ul.pages li2 {
+	float: left;
+	margin: 0;
+	padding: 0;
+	height: 31px;
+	line-height: 31px;
+	border: 1px solid #999;
+	border-left: none;
+	margin-bottom: -1px;
+	overflow: hidden;
+}
