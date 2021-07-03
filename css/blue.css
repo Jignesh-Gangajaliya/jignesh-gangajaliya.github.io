@@ -7208,7 +7208,7 @@ body {
 	padding: 0px;
 	background: #fff;
 	font-family: 'Noto Sans', sans-serif;
-	font-size: 13px;
+	font-size: 15px;
 	line-height: 1.62857143
 }
 
@@ -7231,7 +7231,7 @@ ul {
 
 p {
 	color: #6d6d6d;
-	font-size: 13px
+	font-size: 17px
 }
 
 .no-pad {
@@ -11064,7 +11064,7 @@ a:focus {
 
 .side-bar-blog .catagory-list li a {
 	color: #6d6d6d;
-	font-size: 13px
+	font-size: 15px
 }
 
 .side-bar-blog .catagory-list li a .about-list-arrows {
@@ -11626,7 +11626,7 @@ label.error {
 	padding: 11px 15px;
 	color: #6d6d6d;
 	font-weight: normal;
-	font-size: 12px;
+	font-size: 14px;
 	margin-bottom: 25px
 }
 
