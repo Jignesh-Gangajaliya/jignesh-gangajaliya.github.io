@@ -9615,7 +9615,7 @@ a:focus {
 .about-intro-wrap {
 	width: 100%;
 	height: auto;
-	background: #fff	
+	background: #fff
 }
 
 .intro-content-wrap img {
@@ -13273,7 +13273,7 @@ input[type="date"] {
 }
 
 .iconlist-text {
-	font-size: 13px;
+	font-size: 15px;
 	color: #6d6d6d;
 	line-height: 1.4em;
 	font-family: 'Noto Sans', sans-serif;
@@ -13312,7 +13312,7 @@ input[type="date"] {
 }
 
 .iconlist-title {
-	font-size: 15px;
+	font-size: 17px;
 	color: #333333;
 	line-height: 1.3em;
 	font-family: 'Noto Sans', sans-serif;
@@ -17451,7 +17451,7 @@ input[type="date"] {
 
 	.iconlist-text {
 		line-height: 19px;
-		font-size: 13px
+		font-size: 15px
 	}
 
 	.iconlist-title {
@@ -17921,16 +17921,16 @@ input[type="date"] {
 
 /* headlines with lines */
 h3 {
-   width: 100%; 
-   text-align: left; 
-   border-bottom: 1px solid #000; 
+   width: 100%;
+   text-align: left;
+   border-bottom: 1px solid #000;
    line-height: 0.1em;
-   margin: 10px 0 20px; 
-} 
+   margin: 10px 0 20px;
+}
 
-h3 span { 
-    background:#fff; 
-    padding:0 10px; 
+h3 span {
+    background:#fff;
+    padding:0 10px;
 }
 
 
@@ -17978,7 +17978,7 @@ h3 span {
 }
 
 /* Add Animation - Zoom in the Modal */
-.modal-content, #caption { 
+.modal-content, #caption {
     -webkit-animation-name: zoom;
     -webkit-animation-duration: 0.6s;
     animation-name: zoom;
@@ -17986,12 +17986,12 @@ h3 span {
 }
 
 @-webkit-keyframes zoom {
-    from {-webkit-transform:scale(0)} 
+    from {-webkit-transform:scale(0)}
     to {-webkit-transform:scale(1)}
 }
 
 @keyframes zoom {
-    from {transform:scale(0)} 
+    from {transform:scale(0)}
     to {transform:scale(1)}
 }
 
